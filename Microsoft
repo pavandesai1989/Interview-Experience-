@@ -1,0 +1,14 @@
+https://leetcode.com/problems/decode-string/
+https://www.geeksforgeeks.org/print-cousins-of-a-given-node-in-binary-tree/
+https://www.geeksforgeeks.org/diagonal-traversal-of-binary-tree/
+https://www.geeksforgeeks.org/check-if-a-given-binary-tree-is-sumtree/
+
+design --
+Design a call-center system such that when you receive a call from a user, they provide you either their phone number or Name,
+how would you perform a fast search for retrieving other information about the user.
+
+Design a system that identifies whether a sentence contains words that are not audience sensitive. Assume that you have a database of words 
+that are violent/not audience sensitive.
+
+
+
